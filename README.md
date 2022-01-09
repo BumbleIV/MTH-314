@@ -24,7 +24,7 @@ I am self-teaching the content of MTH 314 to complement and demonstrate my profi
 
 As of January 2022, I am not currently taking this class officially through Michigan State University.
 
-The content in this repository will be notes derived from a previous semester version of the course, and personal notes such as general code for performing Guassian Elimination on matrices of any dimension. 
+The content in this repository will be notes derived from a [previous semester version](https://msu-cmse-courses.github.io/mth314-s21-student/) of the course, and personal notes such as general code for performing Guassian Elimination on matrices of any dimension as I follow the lectures and complete the assignments openly sourced.
 
 **Technologies:**
 &nbsp;
